@@ -1,0 +1,172 @@
+:root {
+    --background: #ffffff;
+    --text: #434455;
+    --link: #4d5ae5;
+    --link-cont: #404bbf;
+    --spanny: #2e2f42;
+    --cloud: #f4f4fd;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.big-header {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--background);
+}
+
+.innav {
+    color: var(--spanny);
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.innav:hover, .innav:focus, .innav:active {
+    color: var(--link-cont);
+}
+
+.inadd {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text);
+}
+
+.inadd:hover, .inadd:focus {
+    color: var(--link-cont);
+}
+
+.but {
+    font-family: "Roboto", sans-serif;
+    color: var(--background);
+    background-color: var(--link);
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+}
+
+.but:hover, .but:focus {
+    background-color: var(--link-cont);
+}
+
+.filter {
+    font-family: "Roboto", sans-serif;
+    color: var(--link);
+    background-color: var(--cloud);
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+}
+
+.filter:hover, .filter:focus {
+    color: var(--background);
+    background-color: var(--link-cont);
+}
+
+.sect-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--spanny);
+}
+
+.sect-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--spanny);
+}
+
+.smaller-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--spanny);
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--link);
+}
+
+.spany {
+    color: var(--spanny);
+}
+
+.list {
+    list-style: none;
+}
+
+.contacts {
+    font-style: normal;
+}
+
+.first-section {
+    background-color: var(--spanny);
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.paragraphh {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.fourth-sect {
+    background-color: var(--cloud);
+}
+
+.workers {
+    background-color: var(--background);
+}
+
+.foot {
+    background-color: var(--spanny);
+}
+
+.span-two {
+    color: var(--cloud);
+}
+
+.in-foot {
+    color: var(--cloud);
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}

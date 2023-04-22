@@ -354,14 +354,12 @@ body {
 
 img {
     display: block;
+    max-width: 100%;
+    height: auto
 }
 
 .jobs {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-}
-
-.photo {
-    width: 100%;
 }

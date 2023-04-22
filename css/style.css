@@ -98,8 +98,6 @@ body {
 }
 
 .ulbutton {
-    padding-top: 96px;
-    margin-bottom: 72px;
     display: flex;
     flex-direction: row;
     padding-left: 0;
@@ -355,4 +353,8 @@ body {
 
 img {
     display: block;
+}
+
+.table {
+    padding: 96px 0 120px;
 }

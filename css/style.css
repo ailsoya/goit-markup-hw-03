@@ -16,8 +16,18 @@ body {
     line-height: 24px;
 }
 
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
 .head {
     border-bottom: 1px solid var(--border);
+    padding-left: 156px;
+    padding-top: 24px;
+    display: flex;
+    flex-direction: row;
 }
 
 .big-header {
@@ -275,16 +285,6 @@ body {
     margin-top: 17.5px;
 } 
 
-.inrow {
-    display: flex;
-    flex-direction: row;
-}
-
-header {
-    padding-left: 156px;
-    padding-top: 24px;
-}
-
 .lione {
     margin-right: 40px;
 }
@@ -295,4 +295,8 @@ header {
 
 .contacti {
     margin-right: 40px;
+}
+
+img {
+    display: block;
 }

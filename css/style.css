@@ -223,22 +223,22 @@ body {
     padding: 96px 0 120px 0;
 }
 
-.first-sect {
+.first-section {
     background-color: var(--spanny);
     text-align: center;
     justify-content: center;
     padding: 188px 0;
 }
 
-.second-sect {
+.second-section {
     padding: 120px 0 120px;
 }
 
-.third-sect {
+.third-section {
     padding-bottom: 120px;
 }
 
-.fourth-sect {
+.fourth-section {
     padding: 120px 0 120px 0;
     background-color: var(--cloud);
 }

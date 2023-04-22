@@ -241,15 +241,12 @@ body {
     display: flex;
     flex-direction: row;
     gap: 24px;
-    padding-top: 120px;
-    padding-bottom: 88px;
     padding-left: 0;
     justify-content: center;
 }
 
 .litwo {
-    width: 264px;
-    margin-right: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .ulthree {

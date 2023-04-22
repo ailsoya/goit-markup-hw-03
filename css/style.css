@@ -210,6 +210,10 @@ body {
     padding: 188px 0;
 }
 
+.second-section {
+    padding: 120px 0 120px;
+}
+
 .navigation {
     display: flex;
     flex-direction: row;

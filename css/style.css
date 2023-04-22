@@ -316,7 +316,7 @@ body {
 
 .foot {
     background-color: var(--spanny);
-    padding: 100px 156px;
+    padding: 100px 0 100px 0;
 }
 
 .span-two {

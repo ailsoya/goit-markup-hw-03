@@ -132,11 +132,10 @@ body {
     row-gap: 48px;
     column-gap: 24px;
     justify-content: center;
-    padding-bottom: 120px;
 }
 
 .works {
-    border: 1px solid var(--border);
+    width: calc((100% - 48px) / 3);
 }
 
 .sect-title {
@@ -159,9 +158,7 @@ body {
     text-transform: capitalize;
     color: var(--spanny);
     margin-top: 0;
-    padding-top: 32px;
     margin-bottom: 8px;
-    padding-left: 16px;
 }
 
 .smaller-title {
@@ -332,12 +329,10 @@ body {
 
 .paragraphh {
     margin: 0;
-    padding-bottom: 32px;
     color: var(--text);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding-left: 16px;
 }
 
 .foot {
@@ -359,4 +354,10 @@ body {
 
 img {
     display: block;
+}
+
+.jobs {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
 }

@@ -205,6 +205,7 @@ body {
     background-color: var(--spanny);
     text-align: center;
     justify-content: center;
+    padding: 188px 0;
 }
 
 .navigation {

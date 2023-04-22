@@ -19,11 +19,11 @@ body {
 .container {
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 15px 0 15px;
 }
 
 .header {
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .head {
@@ -214,11 +214,19 @@ body {
 }
 
 .ulone {
-    margin-right: 332px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
 }
 
 .lione {
-    margin-right: 40px;
+    padding: 24px 0 24px;
+}
+
+.ulcont {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
 }
 
 .ultwo {
@@ -301,10 +309,6 @@ body {
     width: 264px;
     margin-top: 17.5px;
 } 
-
-.contacti {
-    margin-right: 40px;
-}
 
 img {
     display: block;

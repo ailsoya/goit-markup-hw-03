@@ -24,12 +24,12 @@ body {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-}
-
-.head {
     padding-left: 156px;
     padding-top: 24px;
     padding-bottom: 24px;
+}
+
+.head {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -132,6 +132,7 @@ body {
     row-gap: 48px;
     column-gap: 24px;
     justify-content: center;
+    padding-left: 0;
 }
 
 .works {

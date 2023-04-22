@@ -219,6 +219,10 @@ body {
     font-style: normal;
 }
 
+.table {
+    padding: 96px 0 120px 0;
+}
+
 .first-sect {
     background-color: var(--spanny);
     text-align: center;
@@ -353,8 +357,4 @@ body {
 
 img {
     display: block;
-}
-
-.table {
-    padding: 96px 0 120px;
 }

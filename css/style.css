@@ -145,6 +145,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--spanny);
+    margin-top: 0;
     margin-bottom: 72px;
 }
 
@@ -291,6 +292,7 @@ body {
     padding-left: 0;
     justify-content: center;
     gap: 24px;
+    margin-bottom: 0;
 }
 
 .workers {

@@ -31,6 +31,7 @@ body {
     padding-top: 24px;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .big-header {

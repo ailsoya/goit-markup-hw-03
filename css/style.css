@@ -29,6 +29,7 @@ body {
 .head {
     padding-left: 156px;
     padding-top: 24px;
+    padding-bottom: 24px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -251,11 +252,6 @@ body {
     flex-direction: row;
     gap: 40px;
     margin: 0;
-}
-
-.lione {
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .ulcont {

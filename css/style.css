@@ -214,6 +214,10 @@ body {
     padding: 120px 0 120px;
 }
 
+.third-section {
+    padding-bottom: 120px;
+}
+
 .navigation {
     display: flex;
     flex-direction: row;
@@ -252,7 +256,6 @@ body {
 .ulthree {
     display: flex;
     flex-direction: row;
-    margin-bottom: 120px;
     padding-left: 0;
     justify-content: center;
 }

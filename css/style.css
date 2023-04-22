@@ -251,7 +251,12 @@ body {
     display: flex;
     flex-direction: row;
     gap: 40px;
-    margin: 0;
+    margin: 0 170px 0 0;
+    padding-left: 0;
+}
+
+.lione {
+    padding: 24px 0;
 }
 
 .ulcont {
@@ -259,6 +264,7 @@ body {
     flex-direction: row;
     gap: 40px;
     margin: 0;
+    padding-left: 0;
 }
 
 .ultwo {

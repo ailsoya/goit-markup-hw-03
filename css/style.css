@@ -204,6 +204,20 @@ body {
     justify-content: center;
 }
 
+.navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.ulone {
+    margin-right: 332px;
+}
+
+.lione {
+    margin-right: 40px;
+}
+
 .ultwo {
     display: flex;
     flex-direction: row;
@@ -284,14 +298,6 @@ body {
     width: 264px;
     margin-top: 17.5px;
 } 
-
-.lione {
-    margin-right: 40px;
-}
-
-.ulone {
-    margin-right: 332px;
-}
 
 .contacti {
     margin-right: 40px;

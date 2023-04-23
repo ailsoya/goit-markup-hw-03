@@ -24,8 +24,6 @@ body {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .head {
@@ -350,6 +348,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     width: 264px;
+    margin: 0;
 } 
 
 img {

@@ -189,6 +189,8 @@ body {
     text-transform: uppercase;
     color: var(--link);
     margin-right: 76px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .foot-logo {

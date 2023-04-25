@@ -246,14 +246,15 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin: 0 332px 0 0;
 }
 
 .ulone {
     display: flex;
     flex-direction: row;
     gap: 40px;
-    margin: 0 332px 0 0;
     padding-left: 0;
+    margin: 0;
 }
 
 .lione {
